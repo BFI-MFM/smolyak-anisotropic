@@ -1,0 +1,40 @@
+   
+ 
+
+Lilia Maliar, Serguei Maliar and Rafael Valero agree to make the Software for 
+Smolyak algorithm accompanying the article "Smolyak method for solving dynamic
+economic models: Lagrange interpolation, anisotropic grid and adaptive
+domain" by Kenneth L. Judd, Lilia Maliar, Serguei Maliar and Rafael Valero 
+(2014). Journal of Economic Dynamics and Control. Volume 44, July 2014, 
+Pages 92–123 available to you under the following conditions.
+
+1. Any work that contains some results derived from the Software or a
+   modified version including translations to other languages must: 
+
+   a. provide a prominent description of the use of the Software in the text; 
+
+   b. cite the article "Smolyak method for solving dynamic economic models: 
+   Lagrange interpolation, anisotropic grid and adaptive domain" by Kenneth L. 
+   Judd, Lilia Maliar, Serguei Maliar and Rafael Valero (2014). Journal of 
+   Economic Dynamics and Control. Volume 44, July 2014, Pages 92–123. 
+
+2. The Software and any modified version may be redistributed under the 
+   terms of the present license agreement. Redistributions must include 
+   the original Software, this license agreement and the source code of 
+   the modified version with a prominent notice stating that the Software 
+   was changed and the date of the change.
+
+3. The Software comes “as is” and is used at your own risk. Any modification 
+   of the Software is your own responsibility.  The Authors assume no 
+   obligation to provide assistance with using the Software, make no 
+   warranties concerning the performance of the Software and are not 
+   liable to you or any entity for any damage related to the use of the 
+   Software. 
+
+4. The use of the Software is restricted to noncommercial research and 
+   educational purposes. If the Software or a modified version leads to the 
+   development of materials (including software, teaching materials, patents), 
+   which may be used for commercial purposes, a specific agreement must be 
+   negotiated between the authors and the beneficiary. 
+
+5. The Software is protected by copyright and other applicable laws. 
